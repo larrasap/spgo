@@ -1,6 +1,7 @@
 #Source Control
 .vscode
 .vscodeignore
+spgo.json
 
 #VS Code folders
 out
@@ -15,3 +16,4 @@ dist
 #Documentation
 docs/_site
 docs/Gemfile.lock
+
